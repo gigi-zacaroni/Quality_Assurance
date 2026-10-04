@@ -38,12 +38,12 @@ A auditoria foca-se nas 3 áreas Core do sistema:
 
 | Semana | Foco Principal | Entregas e Ações Previstas |
 | :--- | :--- | :--- |
-| **Semanas 1-2** | Setup, Exploração e Documentação | Subir ambiente em Docker; criar repositório no GitHub; explorar fluxos do utilizador; redigir o `README.md` inicial.[span_0](start_span)[span_0](end_span) |
-| **Semana 3** | Planeamento e Design de Testes | Definir cenários para as 3 áreas Core; escrever Casos de Teste (positivos/negativos); configurar a ferramenta de gestão (GitHub Projects/Jira/Trello).[span_1](start_span)[span_1](end_span) |
-| **Semana 4** | Execução de Testes Manuais (UI) | Executar os casos de teste de interface planeados; registar os bugs encontrados.[span_2](start_span)[span_2](end_span) |
-| **Semana 5** | Testes de API e Integração | Validar endpoints e status codes no Insomnia/Postman; verificar regras de negócio no backend; registar bugs de API.[span_3](start_span)[span_3](end_span)[span_4](start_span)[span_4](end_span) |
-| **Semana 6** | Testes de Regressão e Re-teste | Re-testar bugs reportados; descrever a simulação do teste de regressão; refinar relatórios de bugs.[span_5](start_span)[span_5](end_span) |
-| **Semana 7** | Finalização, Revisão e Entrega | Revisão geral da documentação; gravação do vídeo de demonstração (máx. 10 min); disponibilizar repositório final.[span_6](start_span)[span_6](end_span) |
+| **Semanas 1-2** | Setup, Exploração e Documentação | Subir ambiente em Docker; criar repositório no GitHub; explorar fluxos do utilizador; redigir o `README.md` inicial.|
+| **Semana 3** | Planeamento e Design de Testes | Definir cenários para as 3 áreas Core; escrever Casos de Teste (positivos/negativos); configurar a ferramenta de gestão |
+| **Semana 4** | Execução de Testes Manuais (UI) | Executar os casos de teste de interface planeados; registar |
+| **Semana 5** | Testes de API e Integração | Validar endpoints e status codes no Insomnia/Postman; verificar regras de negócio no backend; registar bugs de API |
+| **Semana 6** | Testes de Regressão e Re-teste | Re-testar bugs reportados; descrever a simulação do teste de regressão; refinar relatórios de bugs |
+| **Semana 7** | Finalização, Revisão e Entrega | Revisão geral da documentação; gravação do vídeo de demonstração (máx. 10 min); disponibilizar repositório final. |
 
 ---
 
