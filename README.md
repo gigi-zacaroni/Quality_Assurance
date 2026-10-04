@@ -1,6 +1,6 @@
 # Desafio Quality Assurance 2026.2 - Projeto NaSalinha
 
-Bem-vindo ao repositório da auditoria de qualidade do projeto NaSalinha, desenvolvido no âmbito do desafio de QA da Comp JÚNIOR.
+Repositório da auditoria de qualidade do projeto NaSalinha, desenvolvido no âmbito do desafio de QA da Comp JÚNIOR.
 
 ---
 
